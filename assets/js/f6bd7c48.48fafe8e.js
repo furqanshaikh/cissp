@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcissp_study_guide=self.webpackChunkcissp_study_guide||[]).push([[1443],{8365:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/cissp/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
